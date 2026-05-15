@@ -1,4 +1,4 @@
-- 👋 I'm in the proces of finishing my Masters thesis! (open to PhD opportunities)
+- 👋 I'm in the process of finishing my Masters thesis! (open to PhD opportunities)
 - 🔭 I'm currently working on modifying transformers for length generalization!
 
 <!--
