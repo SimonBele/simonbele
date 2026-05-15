@@ -1,4 +1,5 @@
-### Hi there 👋
+- 👋 I'm in the proces of finishing my Masters thesis! (open to PhD opportunities)
+- 🔭 I'm currently working on modifying transformers for length generalization!
 
 <!--
 **SimonBele/simonbele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
